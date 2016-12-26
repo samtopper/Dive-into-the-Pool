@@ -5,9 +5,8 @@ Students should use this [rubric](https://review.udacity.com/#!/projects/2696458
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-
-#Arcade game clone (Let's cross the Road.) - project#3 by Sameer Ahmed Khan.
-PlayFrogger at - https://github.com/samtopper/classic_arcade_game_udacity-P3
+##Arcade game clone (Dive into the Pool.) - by Sameer Ahmed Khan.
+PlayFrogger at - https://samtopper.github.io/Dive-into-the-Pool/
 
 ##How to play:
    * To play game, click on index.html
